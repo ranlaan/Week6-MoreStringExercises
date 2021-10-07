@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\LOGitpe21\MoreStringExercises\MoreStringExercises\bin\Debug\netcoreapp3.1\MoreStringExercises.exe
+C:\Users\opilane\source\repos\LOGitpe21\MoreStringExercises\MoreStringExercises\bin\Debug\netcoreapp3.1\MoreStringExercises.deps.json
+C:\Users\opilane\source\repos\LOGitpe21\MoreStringExercises\MoreStringExercises\bin\Debug\netcoreapp3.1\MoreStringExercises.runtimeconfig.json
+C:\Users\opilane\source\repos\LOGitpe21\MoreStringExercises\MoreStringExercises\bin\Debug\netcoreapp3.1\MoreStringExercises.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LOGitpe21\MoreStringExercises\MoreStringExercises\bin\Debug\netcoreapp3.1\MoreStringExercises.dll
+C:\Users\opilane\source\repos\LOGitpe21\MoreStringExercises\MoreStringExercises\bin\Debug\netcoreapp3.1\MoreStringExercises.pdb
+C:\Users\opilane\source\repos\LOGitpe21\MoreStringExercises\MoreStringExercises\obj\Debug\netcoreapp3.1\MoreStringExercises.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LOGitpe21\MoreStringExercises\MoreStringExercises\obj\Debug\netcoreapp3.1\MoreStringExercises.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGitpe21\MoreStringExercises\MoreStringExercises\obj\Debug\netcoreapp3.1\MoreStringExercises.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGitpe21\MoreStringExercises\MoreStringExercises\obj\Debug\netcoreapp3.1\MoreStringExercises.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LOGitpe21\MoreStringExercises\MoreStringExercises\obj\Debug\netcoreapp3.1\MoreStringExercises.dll
+C:\Users\opilane\source\repos\LOGitpe21\MoreStringExercises\MoreStringExercises\obj\Debug\netcoreapp3.1\MoreStringExercises.pdb
+C:\Users\opilane\source\repos\LOGitpe21\MoreStringExercises\MoreStringExercises\obj\Debug\netcoreapp3.1\MoreStringExercises.genruntimeconfig.cache
